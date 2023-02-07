@@ -1,0 +1,2 @@
+setuptools~=65.5.0
+revpimodio2~=2.5.10
